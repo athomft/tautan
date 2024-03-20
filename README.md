@@ -1,5 +1,6 @@
 Pemrograman Web Dasar | Tugas 02: CSS & HTML 1 | Soal 03
-Soal 01: Tautan
+
+Soal 03: Tautan
 
 1. Buatlah berkas index.html.
 2. Buat atribut href pertama untuk membuat tautan ke URL: https://solusi.sibermu.ac.id terhadap teks: "Ke LMS SiberMu" .
